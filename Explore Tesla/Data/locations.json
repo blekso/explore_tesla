@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "samoborska",
+    "name" : "Zagreb-Samoborska Cesta",
+    "image" : "map-service",
+    "latitude" : 45.81256429326165,
+    "longitude" : 15.86203752883546
+  },
+  {
+    "id" : "kruger",
+    "name" : "Zagreb-Savska Cesta",
+    "image" : "map-store",
+    "latitude" : 45.79831116016959,
+    "longitude" : 15.961988615341811
+  },
+]

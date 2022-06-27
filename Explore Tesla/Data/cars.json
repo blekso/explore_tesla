@@ -1,0 +1,41 @@
+[
+  {
+    "id" : "model3",
+    "name" : "Model 3",
+    "headline" : "Compact executive sedan which is battery powered and produced by Tesla. Limited production of the Model 3 began in mid-2017.",
+    "description" : "With a near ideal blend of performance, driving range, and accessible pricing, the 2022 Tesla Model 3 is an electric vehicle that lives up to the hype. It's fast—especially the Performance trim—and it's agile, which means the Model 3 is an EV that driving enthusiasts like us can get behind. We even named it to our 2022 Editors' Choice list. Driving range is an impressive 358 miles per charge on the mid-level Long Range trim, so it's not necessary to charge the Model 3 every day. Its attractive entry price doesn't unlock the Model 3's full potential, though, and its fit and finish doesn't quite match alternatives such as the Chevy Bolt and Ford Mustang Mach E. Still, there's not a more inexpensive way to park one of Tesla's groundbreaking EVs in your driveway.",
+    "link" : "https://www.tesla.com/model3",
+    "image" : "model3",
+    "gallery" : [
+      "model3-1",
+      "model3-2",
+      "model3-3",
+      "model3-4"
+    ],
+    "fact" : [
+      "Punchy acceleration, lithe handling, Long Range model boasts impressive driving range.",
+      "Highway driving saps range, all-digital interior may irk some drivers, fit-and-finish could be better.",
+      "The Model 3 is an affordable way for ordinary folks to park a Tesla in their driveway."
+    ],
+    "isFavourite": false
+  },
+  {
+    "id" : "models",
+    "name" : "Model S",
+    "headline" : "The Tesla Model S is a battery-powered liftback car serving as the flagship model of Tesla, Inc.. The Model S features a dual-motor, all-wheel drive layout, although earlier versions of the Model S featured a rear-motor and a rear-wheel drive layout.",
+    "description" : "The Model S debuted on June 22, 2012.[9] A revised, all-wheel-drive version, known as the 60D, debuted on October 9, 2014. The 60D was followed by the 70D, which introduced an all-wheel drive design, followed by the 85D, P85D, and P90. In February 2017, the Tesla Model S was updated to include a revised engine. Dubbed the P100D, it was the first electric vehicle to have an EPA estimated range exceeding 300 mi (485 km). A refresh of the Tesla Model 3, known as the Palladium (Plaid for the performance model), was announced in January 2021. The refresh revises the interior, powertrain, and suspension, among other improvements.",
+    "link" : "https://en.wikipedia.org/wiki/Zebra",
+    "image" : "models",
+    "gallery" : [
+      "models-1",
+      "models-2",
+      "models-3"
+    ],
+    "fact" : [
+      "Driving Range: 405 miles",
+      "Fuel Economy: 115 / 107 mpg",
+      "Horsepower: 670"
+    ],
+    "isFavourite": false
+  }
+]
